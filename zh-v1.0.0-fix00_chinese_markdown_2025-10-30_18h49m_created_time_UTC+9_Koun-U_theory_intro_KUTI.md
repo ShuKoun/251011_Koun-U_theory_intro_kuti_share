@@ -1,5 +1,5 @@
 ---
-title: "zh-v1.0.0-fix00_chinese_markdown_2025-10-30_18h49m_created_time_UTC+9_Koun-U_theory_intro_KUTI.md"
+title: "zh-v1.0.0-fix01_chinese_markdown_2025-10-30_18h49m_created_time_UTC+9_Koun-U_theory_intro_KUTI.md"
 toc:
   depth_from: 1
   depth_to: 4
