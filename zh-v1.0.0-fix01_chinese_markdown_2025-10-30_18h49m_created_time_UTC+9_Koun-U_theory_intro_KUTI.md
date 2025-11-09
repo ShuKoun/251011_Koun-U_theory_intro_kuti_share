@@ -11,7 +11,7 @@ toc:
 ---
 
 # Structural Overview of Koun-U Theory Intro
-- Koun-U 理論入門 zh-V1.0.0-fix02 封面
+- Koun-U 理論入門 zh-V1.0.0 封面
 - Koun-U 理論入門 版權頁（Copyright Page）
 - 📡 給閱讀者的一段話
 - 前言
